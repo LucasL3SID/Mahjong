@@ -1,12 +1,12 @@
 body{
-	background:url("D:/Lucas/Mes documents/Mahjong/temple.jpg") no-repeat;
+	background:url("temple.jpg") no-repeat;
 	background-size: 1500px;
 		
 }
 
 @font-face {
     font-family: "faith";
-    src: url("D:/Lucas/Mes documents/Mahjong/ChinaOne/ChinaOne.ttf") format("truetype");
+    src: url("../ChinaOne/ChinaOne.ttf") format("truetype");
 }
 /*scroll effect*/
 .navbar-trans {
@@ -14,7 +14,7 @@ body{
   border: none;
   transition: top 1s ease;
 }
- 
+
 /*double row*/
 .navbar-doublerow > .navbar{
 	display: block;	

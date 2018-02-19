@@ -1,0 +1,122 @@
+body{
+	width:auto;
+	height:auto;
+}
+
+.img{
+	
+	width:100%;
+	margin-bottom:-20%;
+	opacity:0.3;
+}
+
+.bouton {
+	padding:6px 0 6px 0;
+	font:Bold 13px Arial;
+	background:#d34836;
+	color:#fff;
+	width:90px;
+	border-radius:2px;
+	border:none;
+	width:110px;
+	cursor:pointer;
+	text-transform:capitalize;
+}
+
+
+@font-face {
+    font-family: "faith";
+    src: url("G:/Megaport/Mahjong_perso/Mahjong/Page_Accueil/ChinaOne/ChinaOne.ttf") format("truetype");
+}
+/*scroll effect*/
+.navbar-trans {
+  background-color: transparent;
+  border: none;
+  transition: top 1s ease;
+}
+ 
+/*double row*/
+.navbar-doublerow > .navbar{
+	display: block;	
+	padding: 0px auto;
+	margin: 0px auto;
+	min-height: 25px;
+}
+.navbar-doublerow .nav{
+	padding: 0px auto;
+}
+.navbar-doublerow .dividline{
+  margin: 5px 100px;
+  padding-top: 1px;
+  background-color: inherit;
+}
+/*top nav*/
+.navbar-doublerow .navbar-top ul>li>a {
+	padding: 10px auto;
+	font-size: 12px;
+} 
+/*down nav*/
+.navbar-doublerow .navbar-down .navbar-brand {
+	padding: 0px auto;
+	float: left;
+	color: black;
+	font-size: 32px;
+}
+
+.navbar-doublerow .navbar-down ul>li>a:hover{
+	color: black;
+	animation: 100s infinite Couleur;
+}
+
+@keyframes Couleur{
+	0% {
+		margin-bottom:0%;
+	}
+	1%{
+		margin-bottom:100%;
+		background-color:black;
+		color:white;
+	}
+}
+.navbar-doublerow .navbar-down .dropdown{
+    padding: 5px;
+    color: #000;
+}
+.navbar-doublerow .navbar-down .dropdown ul>li>a,
+.navbar-doublerow .navbar-down .dropdown ul>li>a:hover{
+  color: #000;
+  border-bottom: none;
+}
+.navbar-doublerow.navbar-trans.afterscroll {
+}	
+.navbar-doublerow.navbar-trans.afterscroll {
+   top:-50px;
+}	
+
+.flex-container {
+    justify-content: space-between;
+}
+.flex-item {
+		font-weight:bold;
+	font-size: 30px;
+font-family:"faith";
+}
+/*text*/
+.text-white,.text-white-hover:hover{color:#fff!important}
+/*fontcolor*/
+.light-grey {background-color:black!important}
+
+.item{
+	margin-left: 10%;
+	color:black;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color:black;
+	border:4px solid black;
+}
+
+.titre{
+	font-size:50px;
+	text-align:center;
+}

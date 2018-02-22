@@ -12,7 +12,7 @@
     
   </head>
   <body>
-  	<img src="http://localhost/l3sid/Mahjong/temple.jpg" class="img"/>
+  	<img src="http://localhost/l3sid/projet_github/Code_Site/temple.jpg" class="img"/>
   <!--
 more ui & layout https://github.com/alphadsy
 contribute on github : https://github.com/alphadsy/alpha-ui
@@ -21,7 +21,7 @@ contribute on github : https://github.com/alphadsy/alpha-ui
 <nav class="navbar navbar-default navbar-doublerow navbar-trans navbar-fixed-top">
   <!-- top nav -->
   <nav class="navbar navbar-top hidden-xs">
-  	<a class="bouton" href="http://localhost/l3sid/Mahjong/Connexion.php"> Connexion/Inscription</a>
+  	<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Connexion.php"> Connexion/Inscription</a>
   	<div class="titre">
 	Mahjong
 	</div>
@@ -37,9 +37,9 @@ contribute on github : https://github.com/alphadsy/alpha-ui
         </div>
 
         <ul class="nav navbar-nav flex-item hidden-xs item">
-          <li><a href="http://localhost/l3sid/Mahjong/Jouer.php" class="jouer">Jouer</a></li>
-          <li><a href="http://localhost/l3sid/Mahjong/Historique.php" class="historique">Historique des parties</a></li> 
-          <li><a href="http://localhost/l3sid/Mahjong/Record.php" class="record">Les records</a></li> 
+          <li><a href="http://localhost/l3sid/projet_github/Code_Site/Jouer.php" class="jouer">Jouer</a></li>
+          <li><a href="http://localhost/l3sid/projet_github/Code_Site/Historique.php" class="historique">Historique des parties</a></li> 
+          <li><a href="http://localhost/l3sid/projet_github/Code_Site/Record.php" class="record">Les records</a></li> 
         </ul>
         </div>  
       </div>

@@ -127,6 +127,6 @@ if(isset($_POST['forminscription'])) {
          }
          ?>
       </div>
-<a class="bouton" href="http://localhost/l3sid/Mahjong/Connexion.php"> aller à la page Connexion</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Connexion.php"> aller à la page Connexion</a>
    </body>
 </html>

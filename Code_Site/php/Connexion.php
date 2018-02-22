@@ -13,10 +13,10 @@
   </head>
   <body>
 
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Page_Accueil
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/html/Page_Accueil
 "> Retour à la page d'accueil</a>
 
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Inscription.php"> aller à la page inscription</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/php/Inscription.php"> aller à la page inscription</a>
 
 </body>
 </html>

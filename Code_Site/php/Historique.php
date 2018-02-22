@@ -13,8 +13,8 @@
   </head>
   <body>
 
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Page_Accueil"> Retour</a>
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Jouer.php"> Jouer</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/html/Page_Accueil"> Retour</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/php/Jouer.php"> Jouer</a>
 
 
 

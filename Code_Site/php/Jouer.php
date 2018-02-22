@@ -11,11 +11,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <body>
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Page_Accueil"> Retour à la page d'accueil</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/html/Page_Accueil"> Retour à la page d'accueil</a>
 
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Historique.php"> Historique</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/php/Historique.php"> Historique</a>
 
-<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/Record.php"> Record</a>
+<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/php/Record.php"> Record</a>
 
 <table class="tbl_form' width="500">
 <tr><td><input type="Button" value="1" class="btn_valid" /></td>

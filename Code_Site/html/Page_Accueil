@@ -7,12 +7,12 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://localhost/l3sid/projet_github/Code_Site/Css/Page_Accueil.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://localhost/l3sid/projet_githubs/Code_Site/Css/Page_Accueil.css" type="text/css" media="screen">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
   </head>
   <body>
-  	<img src="http://localhost/l3sid/projet_github/Code_Site/images/temple.jpg" class="img"/>
+  	<img src="http://localhost/l3sid/projet_githubs/Code_Site/images/temple.jpg" class="img"/>
   <!--
 more ui & layout https://github.com/alphadsy
 contribute on github : https://github.com/alphadsy/alpha-ui
@@ -21,7 +21,7 @@ contribute on github : https://github.com/alphadsy/alpha-ui
 <nav class="navbar navbar-default navbar-doublerow navbar-trans navbar-fixed-top">
   <!-- top nav -->
   <nav class="navbar navbar-top hidden-xs">
-  	<a class="bouton" href="http://localhost/l3sid/projet_github/Code_Site/php/Connexion.php"> Connexion/Inscription</a>
+  	<a class="bouton" href="http://localhost/l3sid/projet_githubs/Code_Site/php/Connexion.php"> Connexion/Inscription</a>
   	<div class="titre">
 	Mahjong
 	</div>
@@ -37,9 +37,9 @@ contribute on github : https://github.com/alphadsy/alpha-ui
         </div>
 
         <ul class="nav navbar-nav flex-item hidden-xs item">
-          <li><a href="http://localhost/l3sid/projet_github/Code_Site/php/Jouer.php" class="jouer">Jouer</a></li>
-          <li><a href="http://localhost/l3sid/projet_github/Code_Site/php/Historique.php" class="historique">Historique des parties</a></li> 
-          <li><a href="http://localhost/l3sid/projet_github/Code_Site/php/Record.php" class="record">Les records</a></li> 
+          <li><a href="http://localhost/l3sid/projet_githubs/Code_Site/php/Jouer.php" class="jouer">Jouer</a></li>
+          <li><a href="http://localhost/l3sid/projet_githubs/Code_Site/php/Historique.php" class="historique">Historique des parties</a></li> 
+          <li><a href="http://localhost/l3sid/projet_githubs/Code_Site/php/Record.php" class="record">Les records</a></li> 
         </ul>
         </div>  
       </div>
